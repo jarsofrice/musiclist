@@ -29,6 +29,7 @@ export default class LoginPage extends React.Component {
                 placeholder="password"
               />
             </FormGroup>
+            <Button>Log In</Button>
           </Form>
         </div>
       </div>
